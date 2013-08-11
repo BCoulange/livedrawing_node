@@ -20,9 +20,10 @@
   "keywords": [
     "livedrawing"
   ],
+  "private": true,
   "dependencies" : {
-    "socket.io"   :  "0.9.16",
-    "node-static" :  "0.7.0"
+    "socket.io"   :  "~0.9.16",
+    "node-static" :  "~0.7.0"
   },
   "engines": {
     "node": "0.8.x",
