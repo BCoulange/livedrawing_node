@@ -1,0 +1,36 @@
+{
+  "name": "livedrawing_node",
+  "version": "0.0.0",
+  "author": "NicoTupe <nicolas.tupecabet@gmail.com>",
+  "description": "Live drawing server in node JS",
+  "main": "app.js",
+  "contributors": [ 
+    {
+      "name": "Martin Angelov",
+      "email": "xx@xx.com"
+    } 
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BCoulange/livedrawing_node"
+  },
+  "keywords": [
+    "livedrawing"
+  ],
+  "dependencies" : {
+    "socket.io"   :  "*",
+    "node-static" :  "*"
+  },
+  "analyze": false,
+  "devDependencies": {},
+  "bundledDependencies": [],  
+  "license": "NicoTupe",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
+
