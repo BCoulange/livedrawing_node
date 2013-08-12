@@ -7,8 +7,8 @@ $(function(){
 	}
 
 	// The URL of your web server (the port is set in app.js)
-//	var url = 'http://peaceful-bastion-9677.herokuapp.com/';
-	var url = 'http://localhost:8080/';
+	var url = 'http://peaceful-bastion-9677.herokuapp.com/';
+	// var url = 'http://localhost:8080/';
 
 	var doc = $(document),
 		win = $(window),
